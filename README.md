@@ -1,5 +1,4 @@
 
-ABOUT ME
 I am Daniil Pechkin, and is full stack developer, focusing more on WebGL( Three.js, React Three Fiber, GLSL, Unity ), React( ChakraUI, MaterialUI), Express, SLAM2.0, Blockchain. 
 Recently I am finding  data structure to control 3D modeling and animation.
 
@@ -12,18 +11,8 @@ Recently I am finding  data structure to control 3D modeling and animation.
 
 EXPERIENCE
 
-⭐FRONTEND
-✪ Frameworks - React Native, React / Redux, Vue, Angular2+, Bootstrap, jQuery
-✪ Bundlers- Webpack, Laravel Mix.
-
-⭐BACKEND
-✪ Frameworks- Codeigniter, Laravel, Ruby On Rails, Django, Node.js, Nest.js
-✪ Restful APIs - Payment Integration, Twilio SMS API, Swagger,
-✪ Hosting Server- DigitalOcean, Godaddy
-
-⭐Mobile
-✪ Frameworks: React Native, Flutter, kotlin, Swift
-
-⭐AI
-✪ SLAM.
-✪ Cryptocurrency.
+⭐FRONTEND : React Native, React / Redux, Vue, Angular2+, Bootstrap, jQuery.
+⭐BACKEND : Laravel, Ruby On Rails, Django, Node.js, Nest.js.
+✪ Hosting Server- DigitalOcean, Godaddy.
+⭐Mobile : React Native, Flutter, kotlin, Swift.
+⭐AI : SLAM, Cryptocurrency.
