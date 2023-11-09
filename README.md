@@ -12,7 +12,10 @@ Recently I am finding  data structure to control 3D modeling and animation.
 EXPERIENCE
 
 ⭐FRONTEND : React Native, React / Redux, Vue, Angular2+, Bootstrap, jQuery.
+
 ⭐BACKEND : Laravel, Ruby On Rails, Django, Node.js, Nest.js.
 ✪ Hosting Server- DigitalOcean, Godaddy.
+
 ⭐Mobile : React Native, Flutter, kotlin, Swift.
+
 ⭐AI : SLAM, Cryptocurrency.
